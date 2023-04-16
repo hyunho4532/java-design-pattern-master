@@ -1,0 +1,25 @@
+package observer_pattern.virtual_monitoring_application;
+
+public class CurrentConditionsDisplay implements Observer, DisplayElement {
+	@Override
+	public void display() {
+		// TODO Auto-generated method stub
+		
+	}
+	
+	@Override
+	public void update(float temp, float humidity, float pressure) {
+		// TODO Auto-generated method stub
+		
+	}
+	
+	public CurrentConditionsDisplay() {
+		// TODO Auto-generated constructor stub
+	}
+	
+	@Override
+	protected Object clone() throws CloneNotSupportedException {
+		// TODO Auto-generated method stub
+		return super.clone();
+	}
+}

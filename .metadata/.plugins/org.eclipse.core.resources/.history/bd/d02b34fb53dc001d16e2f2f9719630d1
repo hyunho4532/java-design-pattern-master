@@ -1,0 +1,5 @@
+package observer_pattern.virtual_monitoring_application;
+
+public class CurrentConditionsDisplay implements Observer, DisplayElement {
+
+}

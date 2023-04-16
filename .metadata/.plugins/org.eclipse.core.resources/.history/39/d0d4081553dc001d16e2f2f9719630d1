@@ -1,0 +1,29 @@
+package observer_pattern.virtual_monitoring_application;
+
+import java.util.List;
+
+public class WeatherData implements Subject {
+	
+	private List<Observer> observers;
+	private float temperature;
+	private float humidity;
+	private float pressure;
+	
+	@Override
+	public void notifyObservers() {
+		// TODO Auto-generated method stub
+		
+	}
+	
+	@Override
+	public void registerObserver(Observer o) {
+		// TODO Auto-generated method stub
+		
+	}
+	
+	@Override
+	public void removeObserver(Observer o) {
+		// TODO Auto-generated method stub
+		
+	}	
+}

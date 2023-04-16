@@ -1,0 +1,12 @@
+package observer_pattern.virtual_monitoring_application;
+
+public class WeatherStation {
+	public static void main(String[] args) {
+		WeatherData weatherData = new WeatherData();
+		
+		CurrentConditionsDisplay currentDisplay = 
+				new CurrentConditionsDisplay(weatherData);
+		
+		
+	}
+}

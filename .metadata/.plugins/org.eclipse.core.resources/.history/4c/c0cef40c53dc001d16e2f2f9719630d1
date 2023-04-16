@@ -1,0 +1,25 @@
+package observer_pattern.virtual_monitoring_application;
+
+public class WeatherData implements Subject {
+	
+	private List<Observer> observers;
+	
+	
+	@Override
+	public void notifyObservers() {
+		// TODO Auto-generated method stub
+		
+	}
+	
+	@Override
+	public void registerObserver(Observer o) {
+		// TODO Auto-generated method stub
+		
+	}
+	
+	@Override
+	public void removeObserver(Observer o) {
+		// TODO Auto-generated method stub
+		
+	}	
+}

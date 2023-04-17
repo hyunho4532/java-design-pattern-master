@@ -1,0 +1,13 @@
+package observer_pattern.life_change_application;
+
+import javax.swing.JFrame;
+
+public class SwingObserverExample {
+	JFrame frmae;
+	
+	public static void main(String[] args) {
+		SwingObserverExample example = new SwingObserverExample();
+		example.go();
+	}
+
+}

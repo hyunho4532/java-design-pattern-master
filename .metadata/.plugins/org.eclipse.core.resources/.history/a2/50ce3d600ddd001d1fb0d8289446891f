@@ -1,0 +1,5 @@
+package observer_pattern.life_change_application;
+
+public class SwingObserverExample {
+
+}

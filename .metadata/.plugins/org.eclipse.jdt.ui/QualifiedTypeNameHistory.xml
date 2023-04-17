@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="java.util.Observer"/>
+    <fullyQualifiedTypeName name="observer_pattern.virtual_monitoring_application.Subject"/>
+    <fullyQualifiedTypeName name="java.util.List"/>
+    <fullyQualifiedTypeName name="java.util.ArrayList"/>
+    <fullyQualifiedTypeName name="observer_pattern.virtual_monitoring_application.Observer"/>
+    <fullyQualifiedTypeName name="observer_pattern.virtual_monitoring_application.DisplayElement"/>
+    <fullyQualifiedTypeName name="observer_pattern.virtual_monitoring_application.WeatherData"/>
+    <fullyQualifiedTypeName name="observer_pattern.virtual_monitoring_application.CurrentConditionsDisplay"/>
+</qualifiedTypeNameHistroy>

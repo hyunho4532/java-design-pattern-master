@@ -41,4 +41,14 @@ public class WeatherData implements Subject {
 		this.pressure = pressure;
 		measurementsChanged();             
 	}
+
+	public float getPressure() {
+		return pressure;
+	}
+
+	public void setPressure(float pressure) {
+		this.pressure = pressure;
+	}
+	
+	
 }
